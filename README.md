@@ -1,4 +1,5 @@
 # Retention-Cohort-Churn-Analysis
+![](cohort.PNG)
 
 For this project, here is the **Task Description:**
 
